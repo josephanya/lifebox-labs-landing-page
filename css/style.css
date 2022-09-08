@@ -108,10 +108,10 @@ h3 {
 }
 
 .button {
-    padding: 16px 30px;
+    padding: 14px 30px;
     background-color: #4F9EEA;
     color: #FFFFFF;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 500;
     border-radius: 35px;
     margin-bottom: 0px;
@@ -196,6 +196,7 @@ a:active {
     font-size: 22px;
     color: #002A47;
     margin-bottom: 15px;
+    font-weight: 700;
 }
 
 .product2 img{
@@ -207,11 +208,12 @@ a:active {
     font-size: 22px;
     color: #002A47;
     margin-bottom: 15px;
+    font-weight: 700;
 }
 
 .description{
-    font-size: 18px;
-    line-height: 1.55;
+    font-size: 16px;
+    line-height: 1.56;
     color: #476D85;
     margin-bottom: 30px;
 }
