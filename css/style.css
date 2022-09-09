@@ -11,11 +11,11 @@
 
 @font-face {
     font-family: 'Circular Std';
-    src: url('/fonts/CircularStd-Semibold.eot');
-    src: url('/fonts/CircularStd-Semibold.woff') format('woff'),
-        url('/fonts/CircularStd-Semibold.woff2') format('woff2'),
-        url('/fonts/CircularStd-Semibold.ttf') format('truetype'),
-        url('/fonts/CircularStd-Semibold.svg#Circular Std') format('svg');
+    src: url('/fonts/CircularStd-Medium.eot');
+    src: url('/fonts/CircularStd-Medium.woff') format('woff'),
+        url('/fonts/CircularStd-Medium.woff2') format('woff2'),
+        url('/fonts/CircularStd-Medium.ttf') format('truetype'),
+        url('/fonts/CircularStd-Medium.svg#Circular Std') format('svg');
     font-weight: 500;
     font-style: normal;
 }
